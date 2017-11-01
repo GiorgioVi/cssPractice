@@ -1,0 +1,12 @@
+body {
+  background-image: url("doge.jpg");
+  font-size: large;
+  color: white;
+  text-align: right;
+}
+
+a {
+  color: pink;
+  border: 1000px;
+
+}
