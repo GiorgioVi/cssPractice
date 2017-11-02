@@ -12,3 +12,15 @@ h3 {
   font-stretch: expanded;
 
 }
+
+.extreme{
+  text-shadow: 4px 4px #FF0000;
+}
+
+.content{
+  direction: rtl;
+}
+
+#tehlulz{
+    color:lightsteelblue;
+}
